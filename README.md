@@ -29,7 +29,7 @@ Insert the contents of drop-down.tpl just below<br/>
 
 3. Add the contents of drop-down.js to your view.js file
 
-## Check Installation: 
+### Verify Installation: 
 
 Your Lizmap homepage should now look as below: <br/>
 
