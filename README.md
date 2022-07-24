@@ -26,6 +26,8 @@ Insert the contents of drop-down.tpl just below<br/>
 
 3. Add the contents of drop-down.js to your view.js file
 
+![alt text](Lizmap-DropDown-Menu.png)
+
 
 
 
