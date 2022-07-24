@@ -2,7 +2,7 @@
 
 Adds a searchable, drop-down menu for maps.
 
-![alt text](Lizmap-Drop-Down.png)
+![alt text](images/Lizmap-Drop-Down.png)
 
 :warning: **You should create a custom theme directory for testing:** 
 
@@ -33,7 +33,7 @@ Insert the contents of drop-down.tpl just below<br/>
 
 Your Lizmap homepage should now look as below: <br/>
 
-![alt text](Lizmap-Verify-Menu.png)
+![alt text](images/Lizmap-Verify-Menu.png)
 
 
 
