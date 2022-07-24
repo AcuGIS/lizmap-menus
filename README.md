@@ -9,6 +9,9 @@ Adds a searchable, drop-down menu for maps.
 <code>  
 mkdir /var/www/lizmap-web-client-3.5.4/lizmap/var/themes/default/view/default
 </code><br/><br/>
+<code>  
+chown -R www-data:www-data /var/www/lizmap-web-client-3.5.4/lizmap/var/themes/default/view/default
+</code><br/><br/>
 <code>
 cp -a /lizmap/modules/view/templates/view.tpl /var/themes/default/view/default/view.tpl
 </code><br/><br/>
