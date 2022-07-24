@@ -2,7 +2,7 @@
 
 Adds a searchable, drop-down menu for maps.
 
-![alt text](LizmapDropDown2.png)
+![alt text](Lizmap-Drop-Down.png)
 
 :warning: **You should create a custom theme directory for testing:** 
 
