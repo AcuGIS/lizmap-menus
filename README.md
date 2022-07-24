@@ -20,8 +20,18 @@ Insert the contents of drop-down.tpl just below<br/>
 <code>{meta_html csstheme 'css/media.css'}</code><br/>
 
 
-2. Add the contents of dropdown.css to your view.css file (or add via Lizmap admin Theme UI)
+2. Add the contents of dropdown.css to the bottom of your view.css file (or add via Lizmap admin Theme UI)
 
 3. Add the contents of drop-down.js to your view.js file
+
+$('.select2').each(function() {
+		let obj = $(this);
+		obj.select2({
+			placeholder: obj.attr('placeholder'),
+			allowClear: true
+		});
+	});
+}));
+//# sourceMappingURL=view.js.map
 
 
