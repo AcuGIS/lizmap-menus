@@ -2,6 +2,8 @@
 
 Adds a searchable, drop-down menu for maps.
 
+![alt text](LizmapDropDown2.png)
+
 Usage:
 
 1. Add the contents of drop-down.tpl to your view.tpl file.  
