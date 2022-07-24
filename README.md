@@ -35,6 +35,8 @@ Your Lizmap homepage should now look as below: <br/>
 
 ![alt text](Lizmap-Verify-Menu.png)
 
+![alt text](Lizmap-Verify-Menu.png)
+
 
 
 
