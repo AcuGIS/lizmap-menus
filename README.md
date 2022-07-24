@@ -33,7 +33,7 @@ Insert the contents of drop-down.tpl just below<br/>
 
 Your Lizmap homepage should now look as below: <br/>
 
-![alt text](Lizmap-DropDown-Menu.png)
+![alt text](Lizmap-Verify-Menu.png)
 
 
 
