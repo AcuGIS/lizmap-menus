@@ -24,14 +24,6 @@ Insert the contents of drop-down.tpl just below<br/>
 
 3. Add the contents of drop-down.js to your view.js file
 
-$('.select2').each(function() {
-		let obj = $(this);
-		obj.select2({
-			placeholder: obj.attr('placeholder'),
-			allowClear: true
-		});
-	});
-}));
-//# sourceMappingURL=view.js.map
+
 
 
