@@ -4,7 +4,7 @@ Adds a searchable, drop-down menu for maps.
 
 ![alt text](LizmapDropDown2.png)
 
-:warning: **As with any addition or modification, you should create a custom theme directory for testing:** 
+:warning: **You should create a custom theme directory for testing:** 
 
 <code>  
 mkdir /var/www/lizmap-web-client-3.5.4/lizmap/var/themes/default/view/default
