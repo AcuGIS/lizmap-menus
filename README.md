@@ -7,13 +7,13 @@ Adds a searchable, drop-down menu for maps.
 :warning: **You should create a custom theme directory for testing:** 
 
 <code>  
-mkdir /var/www/lizmap-web-client-3.5.4/lizmap/var/themes/default/view/default
+mkdir /var/www/lizmap-web-client-3.5.5/lizmap/var/themes/default/view
 </code><br/><br/>
 <code>  
-chown -R www-data:www-data /var/www/lizmap-web-client-3.5.4/lizmap/var/themes/default/view/default
+chown -R www-data:www-data /var/www/lizmap-web-client-3.5.5/lizmap/var/themes/default/view
 </code><br/><br/>
 <code>
-cp -a /lizmap/modules/view/templates/view.tpl /var/themes/default/view/default/view.tpl
+ cp -a /var/www/lizmap-web-client-3.5.5/lizmap/modules/view/templates/view.tpl /var/www/lizmap-web-client-3.5.5/lizmap/var/themes/default/view/view.tpl
 </code><br/><br/>
 
 
