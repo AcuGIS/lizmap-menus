@@ -36,6 +36,9 @@ Your Lizmap homepage should now look as below: <br/>
 ![alt text](images/Lizmap-Verify-Menu.png)
 
 
+Drop Down Selector built with [select2](https://select2.org)
+
+
 
 
 
