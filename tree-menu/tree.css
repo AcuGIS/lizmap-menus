@@ -1,0 +1,31 @@
+.m-0 {
+	margin: 0;
+}
+.border-0 {
+	border: 0 !important;
+}
+.clearfix {
+	clear: both;
+}
+.d-flex {
+	display: flex;
+}
+.fg-sidebar-left {
+	padding-right: 20px;
+	min-width: 230px;
+}
+.fg-sidebar-right {
+	.min-width: 100%;
+}
+ul.fg-tree {
+  list-style-type: none;
+}
+@media (max-width: 768px) {
+	.md\:d-block {
+		display: block;
+	}
+	.fg-sidebar-left {
+		padding-right: auto;
+		min-width: 100%;
+	}
+}
