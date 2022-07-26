@@ -15,7 +15,7 @@ Adds a drop-down, accordian, or tree menu for Lizmap.
 
 Installation of all three menu types is identical.
 
-You should create a custom theme directory for testing:
+1. create a custom theme directory for testing:
 
 ```ruby  
 mkdir /var/www/lizmap-web-client-3.5.5/lizmap/var/themes/default/view
@@ -27,16 +27,13 @@ chown -R www-data:www-data /var/www/lizmap-web-client-3.5.5/lizmap/var/themes/de
  cp -a lizmap/modules/view/templates/view.tpl lizmap/var/themes/default/view/view.tpl
 ```
 
+2. Add the contents of menu.tpl to your view.tpl file, inserting just below <code>{meta_html csstheme 'css/media.css'}</code>
 
 
 
-1. Add the contents of menu.tpl to your view.tpl file, inserting just below <code>{meta_html csstheme 'css/media.css'}</code>
+3. Add the contents of menu.css via Lizmap admin Theme CSS UI.
 
-
-
-2. Add the contents of menu.css via Lizmap admin Theme CSS UI.
-
-3. Remove the menu types you do not wish to use.
+4. Remove the menu types you do not wish to use.
 
 4. <b>Drop-Down Map Only</b>:  Add the contents of drop-down.js to your view.js file.
 
