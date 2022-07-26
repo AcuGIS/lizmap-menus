@@ -19,3 +19,5 @@
 	</div>
 
 <br/><br/>
+</div>
+	<div class="fg-sidebar-right">
