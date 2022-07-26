@@ -29,14 +29,31 @@ Insert the contents of drop-down.tpl just below<br/>
 
 3. Add the contents of drop-down.js to your view.js file.
 
-### Verify Installation: 
+### Drop-Down Menu: 
 
 Your Lizmap homepage should now look as below: <br/>
 
 ![alt text](images/Lizmap-Verify-Menu.png)
 
 
+### Accordian Menu: 
+
+Your Lizmap homepage should now look as below: <br/>
+![alt text](images/Lizmap-Accordian-Menu.png)
+
+
+### Tree Menu: 
+
+Your Lizmap homepage should now look as below: <br/>
+![alt text](images/Lizmap-Tree-Menu.png)
+
+
 Drop Down Selector built with [select2](https://select2.org)
+
+
+
+
+
 
 
 
