@@ -1,6 +1,6 @@
 # Lizmap Map Menus
 
-Adds a searchable, drop-down menu or accordian menu for maps.
+Adds a drop-down, accordian, or tree menu for Lizmap.
 
 ![alt text](images/Lizmap-Drop-Down.png)
 
