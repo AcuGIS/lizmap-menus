@@ -20,9 +20,6 @@ Installation of all three menu types is identical.
 ```ruby  
 mkdir /var/www/lizmap-web-client-3.5.5/lizmap/var/themes/default/view
 ```
-```ruby  
-chown -R www-data:www-data /var/www/lizmap-web-client-3.5.5/lizmap/var/themes/default/view
-```
 ```ruby
  cp -a lizmap/modules/view/templates/view.tpl lizmap/var/themes/default/view/view.tpl
 ```
