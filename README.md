@@ -8,7 +8,14 @@ Adds a drop-down, accordian, or tree menu for Lizmap.
 
 
 
-### You should create a custom theme directory for testing:
+
+
+
+## Installation: 
+
+Installation of all three menu types is identical.
+
+You should create a custom theme directory for testing:
 
 ```ruby  
 mkdir /var/www/lizmap-web-client-3.5.5/lizmap/var/themes/default/view
@@ -22,9 +29,6 @@ chown -R www-data:www-data /var/www/lizmap-web-client-3.5.5/lizmap/var/themes/de
 
 
 
-## Installation: 
-
-Installation of all three menu types is identical.
 
 1. Add the contents of menu.tpl to your view.tpl file, inserting just below <code>{meta_html csstheme 'css/media.css'}</code>
 
