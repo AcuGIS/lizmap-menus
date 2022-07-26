@@ -25,9 +25,9 @@ mkdir /var/www/lizmap-web-client-3.5.5/lizmap/var/themes/default/view
  cp -a lizmap/modules/view/templates/view.tpl lizmap/var/themes/default/view/view.tpl
 ```
 
-3. Add the contents of menu.tpl to your view.tpl file, inserting just below <code>{meta_html csstheme 'css/media.css'}</code>
+3. Add the contents of the [menu.tpl](https://github.com/AcuGIS/lizmap-menus/blob/main/menu.tpl) to your view.tpl file, inserting just below <code>{meta_html csstheme 'css/media.css'}</code>
 
-4. Add the contents of menu.css via Lizmap admin Theme CSS UI.
+4. Add the contents of the [menu.css](https://github.com/AcuGIS/lizmap-menus/blob/main/menu.css) via Lizmap admin Theme CSS UI.
 
 5. Remove the menu types you do not wish to use.
 
