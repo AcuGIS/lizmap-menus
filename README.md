@@ -27,9 +27,9 @@ Installation of all three menu types is identical.
 
 2. Add the contents of menu.css via Lizmap admin Theme CSS UI.
 
-3. Drop-Down Map Only:  Add the contents of drop-down.js to your view.js file.
+3. Remove the menu types you do not wish to use.
 
-4. Remove the menu types you do not wish to use.
+4. <b>Drop-Down Map Only</b>:  Add the contents of drop-down.js to your view.js file.
 
 ### Drop-Down Menu: 
 
