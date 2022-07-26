@@ -2,7 +2,7 @@
 
 Adds a drop-down, accordian, or tree menu for Lizmap.
 
-![alt text](images/Lizmap-Menus.png)<br/><br/>
+![alt text](images/Lizmap-Map-Menus.png)<br/><br/>
 
 ### You should create a custom theme directory for testing:
 
