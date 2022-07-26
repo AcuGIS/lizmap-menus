@@ -2,7 +2,11 @@
 
 Adds a drop-down, accordian, or tree menu for Lizmap.
 
+## View [online demo](https://lizmap-demo.acugis.com)
+
 ![alt text](images/Lizmap-Map-Menus.png)<br/><br/>
+
+
 
 ### You should create a custom theme directory for testing:
 
