@@ -2,19 +2,20 @@
 
 Adds a drop-down, accordian, or tree menu for Lizmap.
 
-![alt text](images/Lizmap-Menus.png)
+![alt text](images/Lizmap-Menus.png)<br/><br/>
 
-:warning: **You should create a custom theme directory for testing:** 
+### You should create a custom theme directory for testing:
 
-<code>  
+```ruby  
 mkdir /var/www/lizmap-web-client-3.5.5/lizmap/var/themes/default/view
-</code><br/><br/>
-<code>  
+```
+```ruby  
 chown -R www-data:www-data /var/www/lizmap-web-client-3.5.5/lizmap/var/themes/default/view
-</code><br/><br/>
-<code>
- cp -a /var/www/lizmap-web-client-3.5.5/lizmap/modules/view/templates/view.tpl /var/www/lizmap-web-client-3.5.5/lizmap/var/themes/default/view/view.tpl
-</code><br/><br/>
+```
+```ruby
+ cp -a lizmap/modules/view/templates/view.tpl lizmap/var/themes/default/view/view.tpl
+```
+
 
 
 ## Installation: 
