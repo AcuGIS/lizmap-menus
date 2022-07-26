@@ -21,9 +21,9 @@ chown -R www-data:www-data /var/www/lizmap-web-client-3.5.5/lizmap/var/themes/de
 
 Installation of all three menu types is identical.
 
-1. Add the contents of [menu-type].tpl to your view.tpl file, inserting just below <code>{meta_html csstheme 'css/media.css'}</code><br/>.  
+1. Add the contents of menu.tpl to your view.tpl file, inserting just below <code>{meta_html csstheme 'css/media.css'}</code>
 
-<br/>
+
 
 2. Add the contents of menu.css via Lizmap admin Theme CSS UI.
 
