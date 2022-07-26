@@ -1,6 +1,6 @@
-# Lizmap Map Menu
+# Lizmap Map Menus
 
-Adds a searchable, drop-down menu for maps.
+Adds a searchable, drop-down menu or accordian menu for maps.
 
 ![alt text](images/Lizmap-Drop-Down.png)
 
@@ -19,15 +19,17 @@ chown -R www-data:www-data /var/www/lizmap-web-client-3.5.5/lizmap/var/themes/de
 
 ## Installation: 
 
-1. Add the contents of drop-down.tpl to your view.tpl file.  
+Installation of all three menu types is identical.
 
-Insert the contents of drop-down.tpl just below<br/>
+1. Add the contents of <menu-type>.tpl to your view.tpl file.  
+
+Insert the contents of <menu-type>.tpl just below<br/>
 
 <code>{meta_html csstheme 'css/media.css'}</code><br/>
 
-2. Add the contents of dropdown.css to the bottom of your view.css file (or add via Lizmap admin Theme UI)
+2. Add the contents of <menu-type>.css to the bottom of your view.css file (or add via Lizmap admin Theme UI)
 
-3. Add the contents of drop-down.js to your view.js file.
+3. Add the contents of <menu-type>.js to your view.js file.
 
 ### Drop-Down Menu: 
 
