@@ -21,15 +21,15 @@ chown -R www-data:www-data /var/www/lizmap-web-client-3.5.5/lizmap/var/themes/de
 
 Installation of all three menu types is identical.
 
-1. Add the contents of [menu-type].tpl to your view.tpl file.  
+1. Add the contents of [menu-type].tpl to your view.tpl file, inserting just below <code>{meta_html csstheme 'css/media.css'}</code><br/>.  
 
-Insert the contents of [menu-type].tpl just below<br/>
+<br/>
 
-<code>{meta_html csstheme 'css/media.css'}</code><br/>
+2. Add the contents of menu.css via Lizmap admin Theme CSS UI.
 
-2. Add the contents of [menu-type].css to the bottom of your view.css file (or add via Lizmap admin Theme UI)
+3. Drop-Down Map Only:  Add the contents of drop-down.js to your view.js file.
 
-3. Add the contents of [menu-type].js to your view.js file.
+4. Remove the menu types you do not wish to use.
 
 ### Drop-Down Menu: 
 
