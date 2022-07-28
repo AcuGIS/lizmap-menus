@@ -33,6 +33,10 @@ mkdir /var/www/lizmap-web-client-3.5.5/lizmap/var/themes/default/view
 
 6. <b>Drop-Down Map Only</b>:  Add the contents of drop-down.js to your view.js file.
 
+<br/><br/>
+
+## Screenshots
+
 ### Drop-Down Menu: 
 
 Your Lizmap homepage should now look as below: <br/>
