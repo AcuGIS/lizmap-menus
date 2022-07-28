@@ -1,6 +1,6 @@
 # Lizmap Map Menus
 
-Adds a drop-down, accordian, or tree menu for Lizmap.
+Add a drop-down, accordian, or tree menu for Lizmap.
 
 ## View [online demo](https://lizmap-demo.acugis.com)
 
