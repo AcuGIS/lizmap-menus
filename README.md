@@ -2,15 +2,6 @@
 
 Add a drop-down, accordian, or tree menu for Lizmap.
 
-## View [online demo](https://lizmap-demo.acugis.com)
-
-![alt text](images/Lizmap-Map-Menus.png)<br/><br/>
-
-
-
-
-
-
 ## Installation: 
 
 Installation of all three menu types is identical.
