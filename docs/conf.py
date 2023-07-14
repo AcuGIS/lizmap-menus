@@ -12,7 +12,7 @@ from sphinx.locale import _
 from sphinx_rtd_theme import __version__
 
 
-project = u'JRI Viewer'
+project = u'pg_layers'
 copyright = u'2023, Cited, Inc.'
 slug = re.sub(r'\W+', '-', project.lower())
 version = __version__
