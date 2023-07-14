@@ -1,7 +1,7 @@
-JRI Viewer
+pg_layers
 ==================================================
 
-.. image:: _static/JRIViewer-Main.png
+.. image:: _static/pg_layers-Main.png
 
 
 .. include:: ../README.rst
