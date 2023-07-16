@@ -9,7 +9,7 @@ pg_layers is a stand-alone PHP application for viewing and sharing PostGIS data 
 It supports Users, Groups, and map-level permissions.
 
 
-.. image:: _static/JRIViewer-Main.png
+.. image:: _static/pglayers-1.png
 
 
 System Requirements
