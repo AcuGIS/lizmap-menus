@@ -27,6 +27,8 @@ Add New Basemap
 
 To add a new Basemap, click the "Add New" button at top.
 
+.. image:: pg-add-new.png
+
 Enter the following information:
 
 * Name - Basemap name
