@@ -49,11 +49,12 @@ Edit Connection
 ===================
 To edit a Connection entry, click the Edit icon, as shown below:
 
-.. image:: Edit-Report.png
+.. image:: pg-edit-connection.png
+
 
 Delete Connection
 ===================
 To delete a Connection entry, click the Delete icon, as shown below:
 
-.. image:: Edit-Report.png
+.. image:: pg-delete-connection.png
 
