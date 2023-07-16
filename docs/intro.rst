@@ -4,13 +4,9 @@ Intro
 Overview
 ------------
 
-JRI Viewer is a stand-alone PG-PHP application for viewing and exporting Jasper Reports on demand.
+pg_layers is a stand-alone PHP application for viewing and sharing PostGIS data via Leafletjs.
 
-It does not require JRI Publisher and can be used with any (and multiple) instances of `JasperReportsIntegration`_
-
-.. _`JasperReportsIntegration`: https://github.com/daust/JasperReportsIntegration 
-
-It supports Users, Groups, and report-level permissions.
+It supports Users, Groups, and map-level permissions.
 
 
 .. image:: _static/JRIViewer-Main.png
