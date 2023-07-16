@@ -15,15 +15,19 @@ Overview
 
 Report permissions are granted to User Groups.
 
-Add New Group
+Add New User
 ================
 
-To add a new Group, click the "Add New" button at top.
+To add a new user, click the "Add New" button at top.
 
 Enter the following information:
 
-* Name	- Group Name
-* Users	- Users in Group
+.. image:: Add-Users.png
+
+* Name	- Username
+* Email	- User Email
+* Access Level	- User or Admin
+* Accesss Group - Group membership(s)
 
 Add Members to Group
 =====================
