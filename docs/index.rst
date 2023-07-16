@@ -21,8 +21,8 @@ pg_layers
     components/dashboard/index
     components/users/index
     components/usergroups/index
-    components/reports/index
-    components/reportgroups/index
+    components/connections/index
+    components/styles/index
     components/parameters/index
     components/context/index
     components/thumbnail/index
