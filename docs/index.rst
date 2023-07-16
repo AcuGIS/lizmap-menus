@@ -1,7 +1,7 @@
 pg_layers
 ==================================================
 
-.. image:: _static/pg_layers-Main.png
+.. image:: _static/pg-overview.png
 
 
 .. include:: ../README.rst
