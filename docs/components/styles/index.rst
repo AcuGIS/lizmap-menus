@@ -14,44 +14,35 @@ Styles
 Overview
 ==================
 
-You can view, add, and edit reports via the Reports menu.
+You can view, add, and edit reports via the Styles menu.
 
-.. image:: _static/Add-Report.png
-
-
-
-Add New Report
+Add New Style
 ================
 
 To add a new report, click the "Add New" button at top.
 
+.. image:: pg-add-new.png
+
+
 Enter the following information:
 
-* url	- Full url to your JRI installation
-* Report	- Name of the jrxml file
-* Data Souce - The JRI Data Source name
-* Download Only - Download Only option
-* File Name	- jrxml name of the report
-* Name	- the name that will appear in the dashboard
-* Description	- the description that will appear in the dashboard
-* Access Groups - Group(s) that have access to this report
-* Grouped Report - Report is part of Grouped Report   
+* Name - Name of style
+* Map	- Connection layer to apply style to
+* Color - Color picker
+* Opacity - Set default opacity
 
+.. image:: PgStyle.png
 
-Download Only Option
-=====================
-1.  The report contains charts which do not render in HTML
-2.  You want the chart to be downloaded immediately.
-
-Edit Report
+Edit Style
 ===================
 To edit a report entry, click the Edit icon, as shown below:
 
-.. image:: _static/Edit-Report.png
+.. image:: pg-edit-connection.png
 
-Delete Report
+Delete Style
 ===================
 To delete a report entry, click the Delete icon, as shown below:
 
-.. image:: _static/Edit-Report.png
+.. image:: pg-delete-connection.png
+
 
