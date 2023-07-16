@@ -7,7 +7,7 @@
    :width: 1em
 
 **********************
-Reports
+Standard Map
 **********************
 
 .. contents:: Table of Contents
