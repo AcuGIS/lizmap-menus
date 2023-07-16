@@ -14,29 +14,36 @@ Connections
 Overview
 ==================
 
-You can view, add, and edit reports via the Reports menu.
+You can view, add, and edit reports via the Connections menu.
 
-.. image:: _static/Add-Report.png
+.. image:: PgConnection.png
 
 
 
-Add New Report
+Add New Connection
 ================
 
 To add a new report, click the "Add New" button at top.
 
 Enter the following information:
 
-* url	- Full url to your JRI installation
-* Report	- Name of the jrxml file
-* Data Souce - The JRI Data Source name
-* Download Only - Download Only option
-* File Name	- jrxml name of the report
-* Name	- the name that will appear in the dashboard
-* Description	- the description that will appear in the dashboard
-* Access Groups - Group(s) that have access to this report
-* Grouped Report - Report is part of Grouped Report   
 
+* Name - Connection name
+* Description - Description (will appear on dashboard)
+* Host - Datbase hostname
+* Database	- Database name
+* Schema	- Database schema
+* Username - Database username
+* Password - Database user password	
+* Geom - Table Geom column
+* Metric	- Metric for Choropleth
+* Table	- Database table name
+* Basemap - Default basemap(s)
+* Lat	- lat
+* Lon	- lon
+* Zoom - Zoom
+* pgtileurl	- If using pg_tileserv only
+* Access Groups - Groups with access to map
 
 Download Only Option
 =====================
