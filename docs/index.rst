@@ -21,11 +21,11 @@ pg_layers
     components/dashboard/index
     components/users/index
     components/usergroups/index
+    components/basemaps/index
     components/connections/index
     components/styles/index
-    components/parameters/index
-    components/context/index
-    components/thumbnail/index
+    components/standard/index
+    components/choropleth/index
     
 .. toctree::
     :maxdepth: 3
