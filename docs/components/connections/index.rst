@@ -45,20 +45,15 @@ Enter the following information:
 * pgtileurl	- If using pg_tileserv only
 * Access Groups - Groups with access to map
 
-Download Only Option
-=====================
-1.  The report contains charts which do not render in HTML
-2.  You want the chart to be downloaded immediately.
-
-Edit Report
+Edit Connection
 ===================
-To edit a report entry, click the Edit icon, as shown below:
+To edit a Connection entry, click the Edit icon, as shown below:
 
-.. image:: _static/Edit-Report.png
+.. image:: Edit-Report.png
 
-Delete Report
+Delete Connection
 ===================
-To delete a report entry, click the Delete icon, as shown below:
+To delete a Connection entry, click the Delete icon, as shown below:
 
-.. image:: _static/Edit-Report.png
+.. image:: Edit-Report.png
 
