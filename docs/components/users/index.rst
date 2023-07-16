@@ -37,7 +37,7 @@ Edit Group
 
 To edit a group, click the Edit icon, as shown below:
 
-.. image:: Groups-1.png
+.. image::Groups-1.png
 
 
 Delete Group
