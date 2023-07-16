@@ -16,15 +16,16 @@ Dashboard Layout
 
 Once logged in as an administrator, the dashboard is show below.
 
-.. image:: _static/JRIVieweDashboard.png
+.. image:: _static/pglayers-dashboard.png
 
 Items can be accessed via the dashboard as well as left side menu
 
-* Reports - add and edit Reports
-* Parameters - add and edit Report Parameters
-* Report Groups - add and edit Report Groups
-* Context - add and edit Report Contexts
-* Front End - view the front end as an end user
+* Basemaps - Add and edit basemaps
+* Connections - Add and edit PostGIS connections
+* Styles - Add and edit map styles
+* Standard Maps - Add and edit Standard Maps
+* Choropleth Maps - Add and edit Choropleth Maps
+* Users - Add, edit, and manage Users
 
 
 
