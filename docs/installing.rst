@@ -32,7 +32,7 @@ The installer will create the required objects in PostgreSQL
 
 When the installer completes, you can log in using the default admin@admin.com/1234
 
-.. image:: _static/Installer3.png
+.. image:: _static/pg_layers-Main.png
 
 PhantomJS
 ===================
