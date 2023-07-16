@@ -26,6 +26,7 @@ pg_layers
     components/styles/index
     components/standard/index
     components/choropleth/index
+    components/thumbnail/index
     
 .. toctree::
     :maxdepth: 3
