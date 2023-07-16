@@ -16,8 +16,8 @@ Clone or download the repoistory
 .. code-block:: console
    :linenos:
 
-    git clone https://github.com/cited/jri-viewer
-    mv jri-publisher-master jri_viewer
+    git clone https://github.com/AcuGIS/pg_layers
+    mv pg_layers-master pg_layers
 
 Navigate to /admin/setup.php
 
