@@ -29,24 +29,9 @@ Enter the following information:
 * Access Level	- User or Admin
 * Accesss Group - Group membership(s)
 
-Add Members to Group
-=====================
-
-To add members to a Group, click the Edit button and add members as below
-
-.. image:: Groups-1.png
-
-Edit Group
+Delete User
 ===================
-
-To edit a group, click the Edit icon, as shown below:
-
-.. image::Groups-1.png
-
-
-Delete Group
-===================
-To delete a report entry, click the Delete icon.
+To delete a user, click the delete icon on the row for the user
 
 
 
