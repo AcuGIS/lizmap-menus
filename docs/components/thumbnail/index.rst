@@ -11,14 +11,17 @@ Custom Thumbnail
 **********************
 
 .. contents:: Table of Contents
+
 Overview
 ==================
 
-By default, the report icon displayed in the Dashboard is assets/maps/default.png
+By default, the map icon displayed in the Dashboard is assets/maps/default.png
 
-You can set custom thumbnails for your reports by simply adding <reportid>.png to the assets/maps directory.
+You can set custom thumbnails for your map by simply adding <reportid>.png to the assets/maps directory.
 
-.. image:: Custom-Thumbnail.png
+Below, the icon at left is using the default, the one at right a custom thumbnail.
+
+.. image:: pg-thumbnail.png
 
 
 
