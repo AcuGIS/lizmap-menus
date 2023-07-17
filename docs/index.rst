@@ -12,6 +12,7 @@ pg_layers
 
    intro
    installing
+   quick
    
    
 .. toctree::
