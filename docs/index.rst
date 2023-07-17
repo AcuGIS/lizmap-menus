@@ -1,4 +1,4 @@
-pg_layers
+PostGIS Viewer
 ==================================================
 
 .. image:: _static/pg-overview.png
