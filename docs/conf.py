@@ -12,7 +12,7 @@ from sphinx.locale import _
 from sphinx_rtd_theme import __version__
 
 
-project = u'pg_layers'
+project = u'PostGIS Viewer'
 copyright = u'2023, Cited, Inc.'
 slug = re.sub(r'\W+', '-', project.lower())
 version = __version__
