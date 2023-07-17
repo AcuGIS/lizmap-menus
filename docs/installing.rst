@@ -32,7 +32,7 @@ The installer will create the required objects in PostgreSQL
 
 When the installer completes, you can log in using the default admin@admin.com/1234
 
-.. image:: _static/pg-viewer.png
+.. image:: _static/PostGIS-Viewer-min.png
 
 PhantomJS
 ===================
