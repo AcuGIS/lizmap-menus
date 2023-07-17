@@ -4,7 +4,7 @@ Intro
 Overview
 ------------
 
-pg_layers is a stand-alone PHP application for viewing and sharing PostGIS data via Leafletjs.
+PostGIS Viewer is a stand-alone PHP application for viewing and sharing PostGIS data via Leafletjs.
 
 It supports Users, Groups, and map-level permissions.
 
@@ -19,9 +19,11 @@ System Requirements
 
 Authors
 -------
+* `AcuGIS`_
 * `David Ghedini`_
 * `Kaloyan Petrov`_
 
+.. _`AcuGIS`: https://www.acugis.com
 .. _`David Ghedini`: https://github.com/DavidGhedini
 .. _`Kaloyan Petrov`: https://github.com/kaloyan13
 
